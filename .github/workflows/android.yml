@@ -37,5 +37,5 @@ jobs:
         uses: actions/upload-artifact@v6
         with:
           name: smart-photo-debug
-          path: app/build/outputs/apk/debug/*.apk
+          path: build/outputs/apk/debug/*.apk
           if-no-files-found: error
