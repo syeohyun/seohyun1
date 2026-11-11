@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SmartPhoto" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/page_background</item>
+        <item name="android:navigationBarColor">@color/page_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@color/page_background</item>
+        <item name="android:colorPrimary">@color/navy</item>
+        <item name="colorPrimary">@color/navy</item>
+        <item name="colorControlActivated">@color/sky</item>
+    </style>
+</resources>
